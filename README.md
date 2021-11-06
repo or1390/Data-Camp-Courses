@@ -4,4 +4,4 @@
 
 
 # DataCamp Certificates: 
-### The certificates are uploaded in the Folder Certificate
+### Certificates are uploaded in the Folder Certificate
